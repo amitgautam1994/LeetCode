@@ -1,3 +1,5 @@
+# Remove Duplicates from Sorted Array
+
 def removeDuplicates(nums):
     size = len(nums) - 1
 
