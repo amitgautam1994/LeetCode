@@ -9,7 +9,6 @@ def removeDuplicates(nums):
 
         size -= 1
 
-    return nums
-
+    return len(nums)
 
 print(removeDuplicates([0,0,1,1,1,2,2,3,3,4]))
